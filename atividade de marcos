@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+    th,td{
+      font-family: calibri;
+      border: 1px solid black 
+    }
+  </style>
+</head>
+
+<body>
+  <center>
+<table>
+  <thead>
+    <tr>
+    <th>
+      seja bem vindo 
+      <br>
+      curso de HMTL5 -- Grátis e completo
+    </th>
+    </thead>
+  <tbody>
+  <td>
+    <h5>HTML</h5>
+    <center>
+    <ul>
+      <li><a href="https://www.alura.com.br/artigos/html?utm_term=&utm_campaign=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&utm_source=google&utm_medium=cpc&campaign_id=22354205237__&utm_id=22354205237__&hsa_acc=7964138385&hsa_cam=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm311hjERSB3WMJvJcmf4GOWEaom4vtgoiwCjL_yhB4NmrROYER6NOkcaAplJEALw_wcB"style="color:#00FFFF"'>introdução</a>
+      </li>
+<li><a href="https://pt.semrush.com/blog/tags-html/?g_network=g&g_campaign=BR_POR_SRCH_DSA_Blog_PT&g_acctid=888-874-7704&g_keyword=&g_keywordid=dsa-2227432791027&g_adtype=search&g_adid=678287390053&g_campaignid=19241772885&g_adgroupid=158827186990&kw=&cmp=BR_POR_SRCH_DSA_Blog_PT&label=dsa_pagefeed&Network=g&Device=c&utm_content=678287390053&kwid=dsa-2227432791027&cmpid=19241772885&agpid=158827186990&BU=Core&extid=109814357886&adpos=&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm31TvFLcHPENKK3NCXZyiDufz647Qs_u7R_JfzhAMCsqc9IuYYNWNRMaAinqEALw_wcB"style="color:#00FFFF"'>tags</a></li>
+<li><a href="https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos?utm_term=&utm_campaign=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&utm_source=google&utm_medium=cpc&campaign_id=22048829191__&utm_id=22048829191__&hsa_acc=7964138385&hsa_cam=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm32XkKJEnv8udiBD669HqV62ucZBuKUlP-bIgehKEbVBaoc7gbjeSWIaAkFjEALw_wcB"style="color:#00FFFF"'>atributos</a></li>
+<li><a href="https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/HTML_images"style="color:#00FFFF"'>imagens</a></li>
+<li><a href="https://www.hashtagtreinamentos.com/tabela-em-html?gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm32P8mA1i74rsNjXghxnglNR0zSL-eYJ3yTEvKdzbWGUc83tT6_2LzAaAheeEALw_wcB"style="color:#00FFFF"'>tabelas</a></li>
+        </ul>
+      </center>
+<h5>CSS</h5>
+    <center>
+    <ul>
+      <li><a href="https://www.alura.com.br/artigos/css?utm_term=&utm_campaign=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&utm_source=google&utm_medium=cpc&campaign_id=22354205237__&utm_id=22354205237__&hsa_acc=7964138385&hsa_cam=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm3127MNu3YGD_awiJ2kh1jEf0NZEn7RyZdZJGQTupLZ07w011dW_WyEaAnkyEALw_wcB"style="color:#00FFFF"'>introdução</a></li>
+<li><a href="https://www.ranoya.com/books/public/css/sintaxecss.php#:~:text=O%20c%C3%B3digo%20CSS%20pode%20ser,propriedade%20style%20na%20pr%C3%B3pria%20tag."style="color:#00FFFF"'>sintaxe</a></li>
+<li><a href="https://www.w3schools.com/css/css_font.asp"style="color:#00FFFF"'>fonts</a></li>
+    </ul>
+      </center>
+<h5>JAVASCRIPT</h5>
+    <center>
+    <ul>
+      <li><a href="https://www.alura.com.br/artigos/javascript?utm_term=&utm_campaign=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&utm_source=google&utm_medium=cpc&campaign_id=22354205237__&utm_id=22354205237__&hsa_acc=7964138385&hsa_cam=%5BAO%5D+%5BPerformance+Max%5D+%5BVenda%5D&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm32XHfSZfbiPOGjaYDPklzmaAJsycPnNEL6yhL5FGYQmVTuBsicEyBoaAmr4EALw_wcB"style="color:#00FFFF"'>introdução</a></li>
+      <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types"style="color:#00FFFF"'>sintaxe</a></li>
+      <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions"style="color:#00FFFF"'>funções</a></li>
+    </ul>
+      </center>
+  </td>
+  <td>
+    <center>
+    <img a src="https://images.app.goo.gl/PdJSXZi98mtmvqbP8"width="600"height="600"> 
+      </center>
+    <p>Neste cruso falaremos sobre suas origens, objetivo, importância, boas práticas ferramentas necessárias para se trabalhar com essas linguagens, assim como sua estrutura básica, apresentando seus principais elementos.</p>
+    <h4>Entenda as linguagens</h4>
+    <center>
+      <h1></h1><big style="color:#00FFFF">Aprender programação</big></h1>
+      <br>
+      <video src="https://www.youtube.com/watch?v=Fhy-5CtVkiM"controls width="400"height="200"></video>"
+    </center>
+    
+  </td>
+    </tr>
+    </tbody>
+</table>    
+</body>
+</style>
+
+</html>
+
+
+
